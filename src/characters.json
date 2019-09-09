@@ -1,62 +1,74 @@
 [
     {
         "id": 1,
+        "name": "batman",
         "image": "https://www.dccomics.com/sites/default/files/styles/comics320x485/public/Char_Thumb_Batman_20190116_5c3fc4b40fae42.85141247.jpg?itok=_Or1JrO2",
         "clicked": false
     },
     {
         "id": 2,
-        "image": "https://www.dccomics.com/sites/default/files/styles/comics320x485/public/Char_Thumb_Batman_20190116_5c3fc4b40fae42.85141247.jpg?itok=_Or1JrO2",
+        "name": "aquaman",
+        "image": "https://www.dccomics.com/sites/default/files/styles/comics320x485/public/Char_Thumb_Aquaman_5c411a95e70ff5.50429372.jpg?itok=Yhs6y2LW",
         "clicked": false
     },
     {
         "id": 3,
-        "image": "https://www.dccomics.com/sites/default/files/styles/comics320x485/public/Char_Thumb_Batman_20190116_5c3fc4b40fae42.85141247.jpg?itok=_Or1JrO2",
+        "name": "damian wayne",
+        "image": "https://www.dccomics.com/sites/default/files/styles/comics320x485/public/Char_Thumb_DamianWayne_5c53a57c6bbf38.70134782.jpg?itok=4QWXvdhd",
         "clicked": false
     },
     {
         "id": 4,
-        "image": "https://www.dccomics.com/sites/default/files/styles/comics320x485/public/Char_Thumb_Batman_20190116_5c3fc4b40fae42.85141247.jpg?itok=_Or1JrO2",
+        "name": "catwoman",
+        "image": "https://www.dccomics.com/sites/default/files/styles/comics320x485/public/Char_Thumb_Catwoman_5c47c984ed1bf1.93808647.jpg?itok=UP--EthX",
         "clicked": false
     },
     {
         "id": 5,
-        "image": "https://www.dccomics.com/sites/default/files/styles/comics320x485/public/Char_Thumb_Batman_20190116_5c3fc4b40fae42.85141247.jpg?itok=_Or1JrO2",
+        "name": "cyborg",
+        "image": "https://www.dccomics.com/sites/default/files/styles/comics320x485/public/Char_Thumb_Cyborg_20190116_5c3fcd9048a0e1.41912254.jpg?itok=rN7s8VLZ",
         "clicked": false
     },
     {
         "id": 6,
-        "image": "https://www.dccomics.com/sites/default/files/styles/comics320x485/public/Char_Thumb_Batman_20190116_5c3fc4b40fae42.85141247.jpg?itok=_Or1JrO2",
+        "name": "darkseid",
+        "image": "https://www.dccomics.com/sites/default/files/styles/comics320x485/public/Char_Thumb_Darkseid_5c48a0ddca6219.34241271.jpg?itok=INEFJeto",
         "clicked": false
     },
     {
         "id": 7,
-        "image": "https://www.dccomics.com/sites/default/files/styles/comics320x485/public/Char_Thumb_Batman_20190116_5c3fc4b40fae42.85141247.jpg?itok=_Or1JrO2",
+        "name": "martian manhunter",
+        "image": "https://www.dccomics.com/sites/default/files/styles/comics320x485/public/Char_Thumb_MartianManhunter_20190116_5c3fd5c45bcd52.92066763.jpg?itok=p74g0b-f",
         "clicked": false
     },
     {
         "id": 8,
-        "image": "https://www.dccomics.com/sites/default/files/styles/comics320x485/public/Char_Thumb_Batman_20190116_5c3fc4b40fae42.85141247.jpg?itok=_Or1JrO2",
+        "name": "batgirl",
+        "image": "https://www.dccomics.com/sites/default/files/styles/comics320x485/public/Char_Thumb_Batgirl_5c410fd9aa14d0.53215721.jpg?itok=uxB5nE0w",
         "clicked": false
     },
     {
         "id": 9,
-        "image": "https://www.dccomics.com/sites/default/files/styles/comics320x485/public/Char_Thumb_Batman_20190116_5c3fc4b40fae42.85141247.jpg?itok=_Or1JrO2",
+        "name": "green lantern",
+        "image": "https://www.dccomics.com/sites/default/files/styles/comics320x485/public/Char_Thumb_GreenLantern_20190116_5c3fc8c14ced23.37772462.jpg?itok=H4-WY1zF",
         "clicked": false
     },
     {
         "id": 10,
-        "image": "https://www.dccomics.com/sites/default/files/styles/comics320x485/public/Char_Thumb_Batman_20190116_5c3fc4b40fae42.85141247.jpg?itok=_Or1JrO2",
+        "name": "harley quinn",
+        "image": "https://www.dccomics.com/sites/default/files/styles/comics320x485/public/Char_Thumb_HarleyQuinn_5c4a3e758122a3.39576701.jpg?itok=pFY1Ndy3",
         "clicked": false
     },
     {
         "id": 11,
-        "image": "https://www.dccomics.com/sites/default/files/styles/comics320x485/public/Char_Thumb_Batman_20190116_5c3fc4b40fae42.85141247.jpg?itok=_Or1JrO2",
+        "name": "womder woman",
+        "image": "https://www.dccomics.com/sites/default/files/styles/comics320x485/public/Char_Thumb_WonderWoman_20190116_5c3fc6aa51d064.76155401.jpg?itok=MOyyvdxw",
         "clicked": false
     },
     {
         "id": 12,
-        "image": "https://www.dccomics.com/sites/default/files/styles/comics320x485/public/Char_Thumb_Batman_20190116_5c3fc4b40fae42.85141247.jpg?itok=_Or1JrO2",
+        "name": "twoface",
+        "image": "https://www.dccomics.com/sites/default/files/styles/comics320x485/public/Char_Thumb_TwoFace_5c5a399af0f557.68468222.jpg?itok=UZbU15MZ",
         "clicked": false
     }
 
