@@ -1,6 +1,8 @@
 import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+//import Wrapper from "./components/Wrapper";
+//import Title from "./components/Title";
+import CharacterCard from "./components/CharacterCard";
+import characters from "./characters.json";
 
 function App() {
   return (
