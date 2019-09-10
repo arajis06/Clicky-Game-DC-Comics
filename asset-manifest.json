@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Clicky-Game-DC-Comics/static/css/main.b60df18f.chunk.css",
+    "main.css": "/Clicky-Game-DC-Comics/static/css/main.afc7c557.chunk.css",
     "main.js": "/Clicky-Game-DC-Comics/static/js/main.df2e964c.chunk.js",
     "main.js.map": "/Clicky-Game-DC-Comics/static/js/main.df2e964c.chunk.js.map",
     "runtime~main.js": "/Clicky-Game-DC-Comics/static/js/runtime~main.909e141f.js",
@@ -8,8 +8,8 @@
     "static/js/2.7fcebd89.chunk.js": "/Clicky-Game-DC-Comics/static/js/2.7fcebd89.chunk.js",
     "static/js/2.7fcebd89.chunk.js.map": "/Clicky-Game-DC-Comics/static/js/2.7fcebd89.chunk.js.map",
     "index.html": "/Clicky-Game-DC-Comics/index.html",
-    "precache-manifest.9bc0ca93211e0aded6144bc465e8f946.js": "/Clicky-Game-DC-Comics/precache-manifest.9bc0ca93211e0aded6144bc465e8f946.js",
+    "precache-manifest.a53af78395e13f80cdd432eba24eb680.js": "/Clicky-Game-DC-Comics/precache-manifest.a53af78395e13f80cdd432eba24eb680.js",
     "service-worker.js": "/Clicky-Game-DC-Comics/service-worker.js",
-    "static/css/main.b60df18f.chunk.css.map": "/Clicky-Game-DC-Comics/static/css/main.b60df18f.chunk.css.map"
+    "static/css/main.afc7c557.chunk.css.map": "/Clicky-Game-DC-Comics/static/css/main.afc7c557.chunk.css.map"
   }
 }
