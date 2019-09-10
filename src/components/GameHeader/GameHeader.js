@@ -6,7 +6,7 @@ const GameHeader = () => (
         <div className="container text-center">
             <h1 className="title">Clicky Game: DC Comics</h1>
             <p className="instructions">
-                Click on any character t earn points, but don't click on any character more than once!
+                Click on any character to earn points, but don't click on any character more than once!
             </p>
         </div>
     </div>
