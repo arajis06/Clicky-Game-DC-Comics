@@ -1,4 +1,10 @@
 .title {
-    font-size: 48px;
-    font-family: 'Coda Caption', sans-serif;
+    font-size: 52px;
+    /* font-family: 'Faster One', cursive; */
+    font-family: 'Fredericka the Great', cursive;
+    /* font-family: 'Frijole', cursive; */
+}
+.instructions {
+    font-family: 'Ribeye Marrow', cursive;
+    font-weight: 400;
 }

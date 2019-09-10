@@ -3,6 +3,15 @@
   color: white;
 }
 .game-container {
-  max-width: 70%;
+  max-width: 80%;
   padding: 20px;
+}
+.game-message {
+  font-family: 'Ribeye Marrow', cursive;
+  font-weight: bold;
+  font-size: 18px;
+}
+.game-score {
+  font-family: 'Fredericka the Great', cursive;
+  font-weight: 18px;
 }

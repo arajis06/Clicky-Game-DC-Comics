@@ -5,8 +5,8 @@
     margin: 1rem;
     border: 4px rgb(90, 88, 88) solid;
     box-shadow: 4px, 4px, 9px rgb(240, 235, 235);
-    width: 200px;
-    height: 200px;
+    width: 175px;
+    height: 175px;
     transition: all .2s ease-in-out;
     position: relative;
 }
